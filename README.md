@@ -20,9 +20,10 @@ The game features simple puzzles, dialogue mechanics, and a lightweight UI.
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)  
-![Screenshot 2](path/to/screenshot2.png)  
-![Screenshot 3](path/to/screenshot3.png)  
+![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 2](screenshots/screenshot2.png)  
+![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 4](screenshots/screenshot4.png)  
 
 ---
 
