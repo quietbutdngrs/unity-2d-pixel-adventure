@@ -10,7 +10,7 @@
 You can interact with NPCs, collect items, manage your inventory, and explore a hand-crafted world.  
 The game features simple puzzles, dialogue mechanics, and a lightweight UI.
 
-🕹️ Gameplay time: ~10–15 minutes
+🕹️ Gameplay time: ~10–15 minutes.
 🧠 All programming, design, UI, and gameplay systems were made by me.
 🎨 Assets and music are from free/open resources.
 
