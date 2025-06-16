@@ -1,6 +1,6 @@
 # The Quiet Path — 2D Pixel Quest Game
 
-🎮 **[Download the game on Google Drive (44 MB)] ([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1uaZbDqoWFvFez2lcxiXJGFeDFpE6w7FB?usp=drive_link))**
+🎮 **[Download the game on Google Drive (44,8 MB)] ([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1uaZbDqoWFvFez2lcxiXJGFeDFpE6w7FB?usp=drive_link))**
 
 ---
 
